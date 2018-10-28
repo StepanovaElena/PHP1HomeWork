@@ -1,0 +1,18 @@
+.gallery {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    border-bottom: 2px solid gray;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.gallery a {
+    margin-left: 10px;
+}
+
+.upload_form_error {
+    color: red;
+    font-size: 12px;
+}
